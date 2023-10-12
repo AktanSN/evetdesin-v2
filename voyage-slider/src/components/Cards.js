@@ -10,14 +10,14 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-9.jpg'
+              src='images/evetdesin1.jpg'
               text='Evlilik Teklifi Çekimleri
               '
               label='evetdesin'
               path='/services'
             />
             <CardItem
-              src='images/img-2.jpg'
+              src='images/evetdesin1.jpg'
               text='Tüm Özel Gün Çekimleri
               '
               label='evetdesin'
@@ -26,21 +26,21 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-3.jpg'
+              src='images/evetdesin1.jpg'
               text='Dış Mekan Çekimleri
               '
               label='evetdesin'
               path='/services'
             />
             <CardItem
-              src='images/img-4.jpg'
+              src='images/evetdesin1.jpg'
               text='Toplantı/ Etkinlik Çekimleri
               '
               label='evetdesin'
               path='/products'
             />
             <CardItem
-              src='images/img-8.jpg'
+              src='images/evetdesin1.jpg'
               text='Marka/ İçerik Tanıtım Çekimleri
               '
               label='evetdesin'
@@ -49,21 +49,21 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-3.jpg'
+              src='images/evetdesin1.jpg'
               text='Katolog Çekimleri
               '
               label='evetdesin'
               path='/services'
             />
             <CardItem
-              src='images/img-4.jpg'
+              src='images/evetdesin1.jpg'
               text='Dron Çekimleri
               '
               label='evetdesin'
               path='/products'
             />
             <CardItem
-              src='images/img-8.jpg'
+              src='images/evetdesin1.jpg'
               text='Headshot Çekimleri'
               label='evetdesin'
               path='/sign-up'
